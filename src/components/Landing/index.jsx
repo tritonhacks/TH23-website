@@ -8,7 +8,7 @@ const Landing = () => {
             {/* Foreground - text, buttons, etc */}
             <div id="landing-fg">
                 <h1 id="landing-title">TritonHacks</h1>
-                <p id="date">May 20th - May 21st</p>
+                <p id="date">May 18th - May 19th 2024</p>
                 <div id="landing-btn-wrapper">
                     <a href="https://tally.so/r/3EqeJB" target="_blank" rel="noreferrer" class="landing-btn">APPLY NOW</a>
                 </div>
